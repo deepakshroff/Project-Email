@@ -24,16 +24,7 @@ To set up the project locally, follow the steps below:
 git clone https://github.com/deepakshroff/Project-Email
 cd Project-Email
 
-# No server required
-open index.html      # (or double-click the file)
 
----
 
-## 📞 Contact
-- **For any queries, suggestions, or feedback:**
-
-- 📩 Email: deepak4563k@gmail.com
-
--🌐 GitHub: github.com/deepakshroff
 
 
