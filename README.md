@@ -27,6 +27,7 @@ cd Project-Email
 # No server required
 open index.html      # (or double-click the file)
 
+---
 
 ## 📞 Contact
 - **For any queries, suggestions, or feedback:**
@@ -35,5 +36,4 @@ open index.html      # (or double-click the file)
 
 -🌐 GitHub: github.com/deepakshroff
 
----
 
