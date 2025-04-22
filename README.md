@@ -23,8 +23,3 @@ To set up the project locally, follow the steps below:
 ```bash
 git clone https://github.com/deepakshroff/Project-Email
 cd Project-Email
-
-
-
-
-
